@@ -1,0 +1,1 @@
+select distinct PULocationID from `glossy-grin-413315.HW3_DataSet.normal_yellow_taxi` 
